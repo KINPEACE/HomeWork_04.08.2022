@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Введите 1-ое число: ");
+﻿// Напишите программу, которая на вход принимает два числа и выдает, какое число больше, а какое меньше.
+
+Console.WriteLine("Введите 1-ое число: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Введите 2-ое число: ");
