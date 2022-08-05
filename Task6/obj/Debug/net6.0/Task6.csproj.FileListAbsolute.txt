@@ -1,0 +1,15 @@
+C:\Users\KINPEACE\Desktop\GeekBrains\HomeWork\Task6\obj\Debug\net6.0\Task6.csproj.AssemblyReference.cache
+C:\Users\KINPEACE\Desktop\GeekBrains\HomeWork\Task6\obj\Debug\net6.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KINPEACE\Desktop\GeekBrains\HomeWork\Task6\obj\Debug\net6.0\Task6.AssemblyInfoInputs.cache
+C:\Users\KINPEACE\Desktop\GeekBrains\HomeWork\Task6\obj\Debug\net6.0\Task6.AssemblyInfo.cs
+C:\Users\KINPEACE\Desktop\GeekBrains\HomeWork\Task6\obj\Debug\net6.0\Task6.csproj.CoreCompileInputs.cache
+C:\Users\KINPEACE\Desktop\GeekBrains\HomeWork\Task6\bin\Debug\net6.0\Task6.exe
+C:\Users\KINPEACE\Desktop\GeekBrains\HomeWork\Task6\bin\Debug\net6.0\Task6.deps.json
+C:\Users\KINPEACE\Desktop\GeekBrains\HomeWork\Task6\bin\Debug\net6.0\Task6.runtimeconfig.json
+C:\Users\KINPEACE\Desktop\GeekBrains\HomeWork\Task6\bin\Debug\net6.0\Task6.dll
+C:\Users\KINPEACE\Desktop\GeekBrains\HomeWork\Task6\bin\Debug\net6.0\Task6.pdb
+C:\Users\KINPEACE\Desktop\GeekBrains\HomeWork\Task6\obj\Debug\net6.0\Task6.dll
+C:\Users\KINPEACE\Desktop\GeekBrains\HomeWork\Task6\obj\Debug\net6.0\refint\Task6.dll
+C:\Users\KINPEACE\Desktop\GeekBrains\HomeWork\Task6\obj\Debug\net6.0\Task6.pdb
+C:\Users\KINPEACE\Desktop\GeekBrains\HomeWork\Task6\obj\Debug\net6.0\Task6.genruntimeconfig.cache
+C:\Users\KINPEACE\Desktop\GeekBrains\HomeWork\Task6\obj\Debug\net6.0\ref\Task6.dll
